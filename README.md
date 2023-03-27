@@ -5,5 +5,4 @@
 <br />
 <br />
 # :bar_chart: Github Stats
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kcl9503&theme=radical&count_private=true)](https://github.com/kcl9503/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kcl9503&layout=compact&theme=radical&count_private=true&hide_progress=true)](https://github.com/kcl9503/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kcl9503&theme=radical&count_private=true)](https://github.com/kcl9503/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kcl9503&layout=compact&theme=radical&count_private=true&hide_progress=true)](https://github.com/kcl9503/github-readme-stats)
